@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="dateField" parent="@android:style/TextAppearance.Medium">
+        <item name="android:background">#ffffff</item>
+        <!--<item name="android:typeface">serif</item>-->
+        <!--<item name="android:textSize">16sp</item>-->
+        <item name="android:height">40dp</item>
+    </style>
+
+    <style name="developers_text">
+        <item name="android:textSize">15sp</item>
+        <item name="android:height">40dp</item>
+        <item name="android:layout_width">220dp</item>
+
+    </style>
+
+</resources>

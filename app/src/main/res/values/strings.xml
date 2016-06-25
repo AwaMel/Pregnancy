@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Test for pregnancy</string>
+    <string name="welcome_str">Fill in the form below to carryout the pregnancy test: </string>
+    <string name="developers">We are computer engineering students of the Faculty of engineering and technology. Below is a list of the developers of this app</string>
+
+    <string-array name="cycle_array">
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+    </string-array>
+</resources>
